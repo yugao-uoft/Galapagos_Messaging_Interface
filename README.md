@@ -6,5 +6,5 @@ MPI-like communication for multi-FPGA Clusters
 - Xilinx Vivado & Xilinx Vivado_HLS Installed. Current versions supported are 2018.3, 2019.1
 
 ## Setup
-See `examples` for more guides.
+See `examples/README.md` for more guides.
 
