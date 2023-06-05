@@ -1,1 +1,2 @@
-## Scatter-Gather Example
+## Example
+- Scatter-Gather
