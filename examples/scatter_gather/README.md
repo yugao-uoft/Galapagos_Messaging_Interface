@@ -1,12 +1,12 @@
-## Scatter-Gather Example using three FPGAs + one Evaluation FPGA
+# Scatter-Gather Example using three FPGAs + one Evaluation FPGA
 
-### Evaluation FPGA
+## Evaluation FPGA
 
 - test_sender
 - test_receiver
 - packetizer
 
-### FPGA 1
+## FPGA 1
 - scatter_1
 - gather_recv_20
 - gather_send_20
@@ -16,7 +16,7 @@
 - compute_7
 - compute_8
 
-### FPGA 2
+## FPGA 2
 - scatter_2
 - gather_recv_21
 - gather_send_21
@@ -26,7 +26,7 @@
 - compute_12
 - compute_13
 
-### FPGA 3
+## FPGA 3
 - scatter_3
 - gather_recv_22
 - gather_send_22
